@@ -1,2 +1,2 @@
 # optimization-methods
-<h1>In this project following optimization algorithms are implemented:</h1>
+<h2>In this project following optimization algorithms are implemented:</h2>
