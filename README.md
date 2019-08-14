@@ -1,10 +1,10 @@
 # optimization-methods
 <h2>In this project following optimization algorithms are implemented:</h2>
 <h3> LineSearch: </h3>
-1) steepestDescent \n
-2) newton \n
-3) bfgs \n
+<p>1) steepestDescent</p>
+<p>2) newton</p>
+<p>3) bfgs</p>
 
 <h3> TrustRegion: </h3>
-1) dogleg
-2) cauchy point
+<p>1) dogleg</p>
+<p>2) cauchy point</p>
